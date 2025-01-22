@@ -10,3 +10,9 @@
 
 // console.log(V)
 
+
+// const ary= Array.from("hello")
+// console.log(ary)
+
+// ary[3] = "z"
+// console.log(ary[ary.length - 2])
